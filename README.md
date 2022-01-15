@@ -43,3 +43,7 @@ Event log (306648 events x 4 fields)
 - amount: (numeric) money spent in "transaction"
 - reward: (numeric) money gained from "offer completed"
 - time: (numeric) hours after start of test
+
+### Results
+
+The main findings of the code can be found at the post available here. Github is available at here
