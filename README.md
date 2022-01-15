@@ -47,3 +47,7 @@ Event log (306648 events x 4 fields)
 ### Results
 
 The main findings of the code can be found at the post available here. Github is available at here
+
+### Licensing, Authors, Acknowledgements
+
+Must give credit to Udacity and Starbucks for the data as part of final capstone project of Udacity Data Science Nanodegree.
