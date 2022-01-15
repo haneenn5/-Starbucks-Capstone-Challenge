@@ -2,7 +2,19 @@
 
 
 
+### Project Motivation
 
+It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udacity. We get the dataset from the program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers. We want to make a recommendation engine that recommends Starbucks which offer should be sent to a particular customer.
+
+### Business Problem
+
+As a part of this project, a data driven approach is used to answer the following questions
+
+What is the average income of Starbucks customers?
+What is the average age of Starbucks customers?
+and
+
+Finally, build a Supervised ML model to predict.
 
 ### Dataset overview
 
