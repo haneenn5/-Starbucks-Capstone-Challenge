@@ -10,13 +10,10 @@ It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udac
 
 As a part of this project, a data driven approach is used to answer the following questions
 
-- Q1: What's the average income for Starbucks customers?
-- Q2 :What is the average age of Starbucks customers?
-- Q3 :Which gender spends more men or Female?
-- Q4 :Which gender became a member more than the other?
-- Q5 :What is the most popular channels for each offer Types ?
-- Q6 :which offer number is the most completed ? 
-- Q7 :What is the gender of the most completed offer?
+- Which gender spends more men or Female?
+- What is the most popular channels for each offer Types ?
+- Which offer number is the most completed ? 
+- What is the gender of the most completed offer?
 and
 
 Finally, build a Supervised ML model to predict.
