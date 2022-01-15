@@ -60,7 +60,7 @@ Event log (306648 events x 4 fields)
 
 ### Results
 
-The main findings of the code can be found at the post available here. Github is available at here
+The main findings of the code can be found at the post available here : https://medium.com/@haneenabdullah40/starbucks-capstone-challenge-6192fbda3f1c
 
 ### Licensing, Authors, Acknowledgements
 
