@@ -5,6 +5,7 @@
 
 
 ### Dataset overview
+
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.
 As a simplification, there are no explicit products to track. Only the amounts of each transaction or offer are recorded.
@@ -12,7 +13,8 @@ There are three types of offers that can be sent: buy-one-get-one (BOGO), discou
 The basic task is to use the data to identify which groups of people are most responsive to each type of offer, and how best to present each type of offer.
 
 ### Data Dictionary
-## profile.json
+
+#### profile.json:
 Rewards program users (17000 users x 5 fields)
 
 - gender: (categorical) M, F, O, or null
@@ -21,7 +23,7 @@ Rewards program users (17000 users x 5 fields)
 - became_member_on: (date) format YYYYMMDD
 - income: (numeric)
 
-## portfolio.json
+#### portfolio.json :
 Offers sent during 30-day test period (10 offers x 6 fields)
 
 - reward: (numeric) money awarded for the amount spent
@@ -31,7 +33,7 @@ Offers sent during 30-day test period (10 offers x 6 fields)
 - offer_type: (string) bogo, discount, informational
 - id: (string/hash)
 
-### transcript.json
+#### transcript.json :
 Event log (306648 events x 4 fields)
 
 - person: (string/hash)
