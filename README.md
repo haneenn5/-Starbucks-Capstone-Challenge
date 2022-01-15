@@ -10,8 +10,12 @@ It is the Starbuck's Capstone Challenge of the Data Scientist Nanodegree in Udac
 
 As a part of this project, a data driven approach is used to answer the following questions
 
-What is the average income of Starbucks customers?
-What is the average age of Starbucks customers?
+- Q1: What's the average income for Starbucks customers?
+- Q2 :What is the average age of Starbucks customers?
+- Q3 :Which gender spends more men or Female?
+- Q4 :Is membership taken by males or females?
+- Q5 :What is the most popular channels for each offer Types ?
+- 
 and
 
 Finally, build a Supervised ML model to predict.
